@@ -1,12 +1,10 @@
 # Character Creation
 ## Steps
-Character creation generally follows the same steps as outline beginning on page 11 of the PHB with a few minor differences.
+Character creation generally follows the same steps as outlined beginning on page 11 of the PHB with a few minor differences.
 
 First, races do *not* provide ability score increases.
 
 Second, the only viable method for generating ability scores is via the point buy method. The following changes to that method are in effect.
-- You have 30 points to spend on ability scores.
-- You may increase one ability score, and only one, to 16.
-- The cost to increase a score to 16 is 12 points.
+- You have 29 points to spend on ability scores.
 
-After determinng ability scores, choose a Background, which will provide additional language, skill, and ability score bonuses.
+After determining ability scores, choose a Background, which will provide additional language, skill, and ability score bonuses.
